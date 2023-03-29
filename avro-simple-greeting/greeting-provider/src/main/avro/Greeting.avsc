@@ -1,0 +1,15 @@
+{
+  "name": "Greeting",
+  "namespace": "by.mitr.avrolearn",
+  "type": "record",
+  "fields": [
+    {
+      "name": "greeting",
+      "type": "string"
+    },
+    {
+      "name": "from",
+      "type": "string"
+    }
+  ]
+}
